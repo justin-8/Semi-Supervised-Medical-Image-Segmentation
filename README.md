@@ -1,15 +1,4 @@
-## Dual-task Consistency
-Semi-supervised Medical Image Segmentation through Dual-task Consistency 
-	@inproceedings{luo2021semi,
-	  title={Semi-supervised Medical Image Segmentation through Dual-task Consistency},
-	  author={Luo, Xiangde and Chen, Jieneng and Song, Tao and Wang, Guotai},
-	  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-	  volume={35},
-	  number={10},
-	  pages={8801--8809},
-	  year={2021}
-	}
-	
+
 ## Requirements
 Some important required packages include:
 * [Pytorch][torch_link] version >=0.4.1.
